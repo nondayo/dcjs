@@ -57,12 +57,12 @@ console.log("Second result with filter:")
 console.log(filteredResult)
 // [{key: "fruit", value: 12},{key: "vegetable", value: 0}]
 
-// // Remove filter
+// Remove filter
 
-// /* dimensionCountry.filter(null)
-// const filterRemovedResult = quantityByCategory.all()
-// console.log("Third result filter removed:")
-// console.log(filterRemovedResult) */
+dimensionCountry.filter(null)
+const filterRemovedResult = quantityByCategory.all()
+console.log("Third result filter removed:")
+console.log(filterRemovedResult)
 
 // // Tips and Tricks
 
